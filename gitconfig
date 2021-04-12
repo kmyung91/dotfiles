@@ -11,6 +11,7 @@
 
 [core]
   pager = less -FRSX
+	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
 
 [alias]
   co = checkout
@@ -48,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = 81194502+kmyung91@users.noreply.github.com
+	name = Kevin Myung
